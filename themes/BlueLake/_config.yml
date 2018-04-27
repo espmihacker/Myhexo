@@ -10,6 +10,12 @@ menu:
   - page: 主页
     directory: .
     icon: fa-home
+  - page: 安卓
+    directory: categories/安卓
+    icon: fa-archive
+  - page: PHP
+    directory: categories/PHP
+    icon: fa-archive
   - page: 归档
     directory: archives/
     icon: fa-archive
@@ -68,14 +74,14 @@ local_search: true ## Use a javascript-based local search engine, true/false.
 
 #Cmments
 comment:
-  duoshuo: #chaooo ## duoshuo_shortname
+  duoshuo: # chaooo ## duoshuo_shortname
   disqus: ## disqus_shortname
-  livere: MTAyMC8zNjAzMC8xMjU2Ng== ## 来必力(data-uid)
+  livere: ## MTAyMC8zNjAzMC8xMjU2Ng== ## 来必力(data-uid)
   uyan: ## 友言(uid)
   cloudTie: ## 网易云跟帖(productKey)
   changyan: ## 畅言需在下方配置两个参数，此处不填。
     appid: ## 畅言(appid)
-    appkey: ##畅言(appkey)
+    appkey: ## 畅言(appkey)
 
 #Share
 baidu_share: ##true ## 百度分享
