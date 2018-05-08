@@ -11,7 +11,7 @@ menu:
     directory: .
     icon: fa-home
   - page: 安卓
-    directory: categories/安卓
+    directory: categories/Android
     icon: fa-archive
   - page: PHP
     directory: categories/PHP
@@ -106,7 +106,7 @@ busuanzi: true ## If you want to use Busuanzi page views please set the value to
 
 # About page
 about:
-  photo_url: https://s1.ax1x.com/2018/04/26/C3AxlF.jpg
+  photo_url: https://s1.ax1x.com/2018/04/27/C3yQQP.jpg
   items:
   - label: Email
     url: mailto:mihacker@163.com ## Your email with mailto: e.g.
@@ -128,7 +128,7 @@ about:
 links:
   - title: site-name1
     url: http://www.example1.com/
-  - title: site-name2
-    url: http://www.example2.com/
-  - title: site-name3
-    url: http://www.example3.com/
+#  - title: site-name2
+#    url: http://www.example2.com/
+#  - title: site-name3
+#    url: http://www.example3.com/
