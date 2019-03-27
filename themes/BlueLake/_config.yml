@@ -10,11 +10,14 @@ menu:
   - page: 主页
     directory: .
     icon: fa-home
-  - page: 安卓
-    directory: categories/Android
+  - page: Java
+    directory: categories/Java
     icon: fa-archive
   - page: PHP
     directory: categories/PHP
+    icon: fa-archive
+  - page: 安卓
+    directory: categories/Android
     icon: fa-archive
   - page: 归档
     directory: archives/

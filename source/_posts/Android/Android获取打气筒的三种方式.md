@@ -3,7 +3,7 @@ title: Android获取打气筒的三种方式
 date: 2018-04-27 16:06
 tags: 
 categories:
-    - 安卓
+    - Android
 ---
 
 ## 什么是打气筒？
